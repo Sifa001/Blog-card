@@ -23,7 +23,7 @@ The challenge was to build a responsive blog preview card component that display
 
 ### Links
 
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://blog-card-sifa001.netlify.app/)
 - [Solution URL](https://github.com/Sifa001/project-repo)
 
 ## My process
